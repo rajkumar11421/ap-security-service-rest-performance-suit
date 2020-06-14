@@ -4,7 +4,7 @@
 	<groupId>com.optum.tpa</groupId>
 	<artifactId>ap-security-service-rest-performance-suit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ap-security-service-rest-performance-suit</name>
+	<name>ap-security-service-rest-performance-suit</name> 
 
 
 	<dependencies>
